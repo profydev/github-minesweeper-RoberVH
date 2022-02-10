@@ -9,7 +9,12 @@
 	"clear E1",
 	"flag C3",
 	"clear B3",
-	"flag A3"
-	
+	"flag A3",
+	"flag E7",
+	"clear F7",
+	"clear G7",
+	"clear D8",
+	"clear E8",
+	"flag H6"
   ]
 }
